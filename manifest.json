@@ -1,0 +1,15 @@
+{
+  "name": "CINELIT Cine Art Dept",
+  "short_name": "Cine Art Dept",
+  "description": "Create realistic prop items to place in your film frame.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fcfdfb",
+  "theme_color": "#286a51",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
