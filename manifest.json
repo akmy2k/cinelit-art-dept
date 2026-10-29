@@ -1,6 +1,6 @@
 {
-  "name": "CINELIT Cine Art Dept",
-  "short_name": "Cine Art Dept",
+  "name": "CINELIT Art Dev",
+  "short_name": "Art Dev",
   "description": "Create realistic prop items to place in your film frame.",
   "start_url": "./",
   "scope": "./",

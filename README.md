@@ -1,3 +1,7 @@
+# CINELIT Art Dev
+
+Renamed October 29, 2026. Existing app address and editable project formats retained.
+
 # CINELIT — Cine Art Dept
 
 Installable web and desktop browser app for covers, film props, packaging, signs and quick mockups. Projects are stored on your device; export project files for backups.
