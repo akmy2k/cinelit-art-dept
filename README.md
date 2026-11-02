@@ -21,3 +21,9 @@ Screen editability pass: all 20 current screen templates expose editable interfa
 
 ### Screen appearance controls
 All 20 Screens templates include Colour palette, Screen softness and Screen pixelation in Design. Set both sliders to zero for a clean screen. Choose a palette or edit background, text and accent colours individually. Appearance effects carry through still-image and video exports; SVG with these effects embeds a raster image to preserve the appearance. Saved projects remain editable.
+
+## November 1 — graphic design and detailed Screens
+
+Search home/results, social feed, microblog and photo profiles have richer editable layouts and interface copy. All twenty Screens now use original geometric/editorial graphics in empty artwork slots. Uploaded artwork still replaces those graphics. New-project and optional sample artwork is graphic design, not an AI photograph. Existing saved artwork is preserved.
+
+PNG/JPEG exports now support native, 2× and 3× render scales (24-megapixel / 8192-edge limit). Type and geometry are re-rendered; raster source detail is not invented. All catalogue exports retain existing controls. Larger print/on-camera acceptance still needs a production-size review.
