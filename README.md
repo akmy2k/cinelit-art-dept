@@ -27,3 +27,11 @@ All 20 Screens templates include Colour palette, Screen softness and Screen pixe
 Search home/results, social feed, microblog and photo profiles have richer editable layouts and interface copy. All twenty Screens now use original geometric/editorial graphics in empty artwork slots. Uploaded artwork still replaces those graphics. New-project and optional sample artwork is graphic design, not an AI photograph. Existing saved artwork is preserved.
 
 PNG/JPEG exports now support native, 2× and 3× render scales (24-megapixel / 8192-edge limit). Type and geometry are re-rendered; raster source detail is not invented. All catalogue exports retain existing controls. Larger print/on-camera acceptance still needs a production-size review.
+
+## November 4 — Search screen studio
+
+Screens → Search engine — home/results now provides Google-style SEEK and DuckDuckGo-style Wren layouts. Search layout and Search view are available above the editor tabs. Starting style supplies ten complete variations, including compact research and night mode.
+
+Web, Images, News, Videos and Maps/local-place result pages have editable fictional copy and original vector graphic defaults. Web results include distinct source identities, URLs, timestamps, snippets, sitelinks, optional answer summary, knowledge panel, related questions/expanded answer, related searches, optional top stories and sponsored results. Home offers autocomplete and an optional uploaded logo. Optional browser tabs/address bar and region/date/safe-search/language labels complete the insert. Uploaded art can replace defaults, including knowledge-panel imagery/maps.
+
+These are production screen-prop designs, not a live web search service. No photorealistic AI images were added. Still/vector/PDF and animated video exports retain the existing app workflows.
