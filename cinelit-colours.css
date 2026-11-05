@@ -1,0 +1,16 @@
+/* Shared CINELIT interface colours. Artwork and user palettes are independent. */
+:root {
+  --cinelit-page: #f4f4f5;
+  --cinelit-panel: #ffffff;
+  --cinelit-stage: #e9e9eb;
+  --cinelit-ink: #181a1d;
+  --cinelit-dim: #50555c;
+  --cinelit-muted: #686e76;
+  --cinelit-line: #d7d9dd;
+  --cinelit-line-strong: #aeb3bb;
+  --cinelit-hover: #eceef0;
+  --cinelit-accent: #39ff14;
+  --cinelit-accent-hover: #65ff48;
+  --cinelit-accent-ink: #101610;
+  --cinelit-selected: #f0f2f3;
+}
