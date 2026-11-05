@@ -1,0 +1,6 @@
+GHS hazard pictograms: public-domain GHS symbols, vector versions retrieved from Wikimedia Commons, 2026-11-05.
+Official shape and meanings reference: https://www.osha.gov/hazcom/pictograms
+Source files: https://commons.wikimedia.org/wiki/Category:GHS_pictograms
+Files: GHS-pictogram-rondflam.svg; flamme; explos; skull; acid; bottle; silhouette; pollu; exclam.
+Explicit SVG width/height normalized to 1024 for reliable Canvas/SVG rasterization. Shapes and colour conventions preserved.
+These are screen-prop design assets. Templates are not a site-specific hazard assessment or a certified safety sign system.
